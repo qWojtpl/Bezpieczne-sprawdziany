@@ -1,0 +1,1 @@
+# Bezpieczne sprawdziany
